@@ -1,0 +1,13 @@
+.Pokecard{
+    background: rgb(253, 75, 75);
+    display: inline-block;
+    margin: 20px;
+    width: 250px;
+    border-radius: 10px;
+    transform: all 0.2s ease;
+}
+
+.Pokecard:hover{
+    padding: 25px;
+    transform: scale(1.0);
+}
